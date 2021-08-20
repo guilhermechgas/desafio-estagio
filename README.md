@@ -11,4 +11,4 @@ Detalhes sobre a aplicaçáo que podem te ajudar na hora de fazer o seu desafio:
 
 - Lembre-se de que caso tenha duvidas, consulte o material apresentado, as referências informadas ou então fique a vontade para entrar em contato comigo.
 
-# Go!
+# Lets go!
